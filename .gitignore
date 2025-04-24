@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Mac system files
+.DS_Store
+
+# Optional: Ignore raw data files if not needed on GitHub
+data/*.csv
+data/*.xlsx
