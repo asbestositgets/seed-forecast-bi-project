@@ -84,7 +84,6 @@ seed-forecast-bi-project/
 
 ---
 
-## ✅ Key Findings
 
 ## ✅ Key Findings
 
